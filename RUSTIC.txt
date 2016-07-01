@@ -1,40 +1,32 @@
-��Ҫ��ʷ
-��Լ�ڹ�Ԫǰ�����ͣ������˴���δ��ɵ�ϣ����ĸ���н��������ĸ���ĸ��������������ƣ��Ӷ��γ�������³������ĸ��(Etruscan Alphabet)����һ����������������ӹ��Ĵ�д��ĸ�ϼ�����ʹ���˺ü������͡�����Ԫǰһ���ͣ�������ĸ�Ĵ�д��ʽ�������ǽ����ڼ���ȵ������Ͽ��������������γ��˸��ӵĳ���(serif)������������һ���鷨�ϵ���������Ȼ����һ����ΪRoman Square Capital������ģ���Ϊϸ�µıʻ����Լ�Ϊ�����һ����ĸ����ķѵ�ʱ�������ĳ߷�������������Ϊһ��ʹ�������е���������ˡ����գ����˹�Ԫ�����ͣ����������𽥱���������ʷ�Ĺ�ֽ���С�
-Ϊ�˸���Ч�ʵ����һЩ������һ���͵ĳ�дԱ���ܵ�Roman Square Capital�����������������õĲ���������ԸĽ�������������һЩRSC����ɫ�������Ͼ��µĳ��ߣ��Ӷ�������һ����ΪRoman Rustic�����塣��һ����Ѹ�ٳ�Ϊ��һ�ֱ��ܻ�ӭ�ĳ�д���塣����RSC�𽥱�����������Խ��Խ����˿�ʼ�����µ����壬��һ���������С�ɵ���/���Ӳ���1��ascender/descender���Ĵ�д�����𽥲������ڶ�ı��塣��һ���ͽ���ǰ��Roman Rustic�Ѿ����˵۹��ı�׼���壬����Ҳ����������ʱ���Ŀ�ʼ��
+简要历史
+大约在公元前七世纪，罗马人借用了尚未完成的希腊字母表以及伊特鲁里亚字母表(Etruscan Alphabet)中字母顺序的概念。罗马人将这些借鉴来的概念加入到他们自己的大小写字母之中，形成了一种大写字母的混合体，并绵延使用了好几个世纪。到公元前一世纪，这套字母的大写形式——Roman Square Capital（如我们今天在纪念碑等的铭文上看到的那样）开始具有复杂的衬线(serif)，进而拥有了一种书法的魅力。然而书写Roman Square Capital需要及其精细的笔画，每完成一个字母都意味着耗费大量的时间和尺幅，这改变了它当时作为一种实用且受欢迎的字体的命运。最终，到了公元六世纪，这套字体逐渐被封存进了历史的故纸堆中。
+一世纪的人们为了更有效率地完成工作，一些对Roman Square Capital有着深刻印象的抄写员们将他们的大写草书字体加以改进，使其体现大写字母的外貌特征，并附上精致的衬线。最终创造出一种大众化的，实用的抄写书体——Roman Rustic。随着Roman Square Capital的发展逐渐成熟，已成为一种典型字体的时候，更多的抄写员开始采用Roman Rustic并衍生出许多新的变体，如不添加过多装饰的话，它们都有着相对小巧的上/下延部分（ascender/descender）。到一世纪结束前，Roman Rustic已经成为罗马帝国的标准书体，而这也正是中世纪时代的开始。
 
  
-ͼ73.����������ٸ�����ͼ��ݣ�Codex Vaticanus Palatinus 1631(P), ��121���Ҳࡿһ���Ļ������͵��ı����ǳ����ĳ�дԱд�ͣ�ÿһ����ֱ�ʻ���ת�ʶ���ɵ÷ǳ���ϸ���Ӷ�ÿһ���������µĴ�ϸ�仯���ǳ��ľ��ȡ� 
-VNVMEXVIAPEDEMVINCLISINVESTERECINCTATESTATVRMORITVRADEOS��ETCONSCIAFATISIDERA��TUMSIQVODNONAEQVOFOEDEREAMANTCVRAENVMENHABET��IVSTVMQVEMEMORQVEPNOXERAT��ETPLACIDVMCARPEBANTFESSASOPORE
- 
-
- 
-ͼ74.��ͬ�ϣ���131����ࡿ�ʼ���խ��һ���ı�����������һλ��дԱд�ͣ�������鷨��Ϊ���ᵫͬ��    ��
-ESTDORYCLICONIVNX��DIVINISIGNADECORIS��ARDENTISQVENOTATEOCVLOSQVISPIRITVSILLI��QVISVOLTVS��VOCISQVESONVSETGRESSVSEVNTI
+图73.【罗马，梵蒂冈宗座图书馆，Codex Vaticanus Palatinus 1631(P), 第121面右侧】一份四或五世纪的文本，由一位杰出的抄写员写就，每一处竖直笔画的转笔都完成得非常仔细，从而每一笔由上至下的粗细变化都非常的匀。 
+VNVMEXVIAPEDEMVINCLISINVESTERECINCTATESTATVRMORITVRADEOS·ETCONSCIAFATISIDERA·TUMSIQVODNONAEQVOFOEDEREAMANTCVRAENVMENHABET·IVSTVMQVEMEMORQVEPNOXERAT·ETPLACIDVMCARPEBANTFESSASOPORE
  
 
  
-ͼ75.����������, ������������ͼ���, Ms. Plut.39.1, ��158����ࡿһ�����������ڵ��ĵ��������������494��֮ǰ��ĳһʱ�䣬��ʽ��������ɢ���鷨���Ե���LYDORVMQ��MANVM��COLLECTOSARMATAGRESTIS��QVIDDEVBITAS��NVNCTEMPVSEQVOSNVNCPOSCERECVRRYS��RVMPEMORASOMNIS��ETTVRBATAARRIPECASTRA��
+图74.【同上，第131面左侧】文本选用了稍窄的笔尖，可能是另一位抄写员写就，风格轻巧但同样不失书法上的美感。
+ESTDORYCLICONIVNX·DIVINISIGNADECORIS·ARDENTISQVENOTATEOCVLOSQVISPIRITVSILLI·QVISVOLTVS·VOCISQVESONVSETGRESSVSEVNTI
  
 
  
-ͼ76. ����������ٸ�����ͼ���, Ms. Vat. Lat. 3876, ��3���Ҳࡿͬͼ73����������ֱ�ʻ�û��ת�ʡ�450�굽500��䡣
-
-FORMONSVM��CORYDON��PASTOR��ARDEBAT��ALEXINDELICIAS��DOMINI��NEC��QVID��SPERARET��HABEBATTANTVM��INTER��DENSAS��VMBOSA��CACVMINA��FAGOSADSIDVAE��VENIEBAT��IBI��HAEC��INCONDITA��SOLVS 
-
-
-ͼ77. ��ͼ73��74��75�Ĳ���ϸ�ڡ���ĸװ�Σ� ��ĸ��װ�ηǳ���������Ϊ��������д��G�����ı���ĩ���Ը����ϳ���descender��ʽ���֣��ʶ�descender�����������������졣����д��Q��������ĩ��ʱ������β��Ҳ���㹻�Ŀռ�������չ��Ȼ�����ı��п��������Ǿ����ӳ���β����Y����ĸ����ʵ���Ҳ���б�ʻ���������Լӿ��ŵĴ�дV����һ�����Ƶ�������ο�ͼ76�е�L�����������ĵ���һ�н����Ҳ�װ���ߵ���ĸҲ���������Ρ���������װ���ߴ������������졣��ĸV�����ʻ�����A�ĳ�����ʱ���Գ����ı��߽硣��������ÿһ������������������ĸ�������˴�����ƽ�������������ÿһҳ����������װ�Σ���Ȼ��������һ������á���ν��ĸװ��������Ϊ�ټ����͵����ֲ�Ӱ���ĵ�����ĸ���Ű���Ե��������ˡ�
- 
-�����ص㣺���ڿ�����д��Ŀ�ģ�����дRoman Rusticʱ���ʼ�ĽǶ�ά����45�㵽70��֮�䡣����ĸ�����Ĺ�����΢��б���Խ����ϵıʻ�����������Roman Rustic��AҲ���Դ����ıʻ���ʼд����M���Ǵ�������������ɡ���ĸ����ĸ߶�ͨ����ֻ��B��F��L����ʱҲ��E��P�����ơ���2��3���ͣ�F��ʱ�������ӵ��������£���M����Ժ��ϳ���һ�ξ��롣���ڵ�G��β����д������Q��β���������ڵ�һЩ�Ż���������汾�Gͨ����������ʽ���֣��������Ķ��м��û��descender����ʽ���Լ������Ķ���ĩ�е���ʽ����ĸ֮��ֵıȽϿ������ǵ���֮�䲢û�ж���ĸ��ϣ�ż�����ڵ��ʼ�ָ������в�����һ��С�㣩��ͨ������ʱ���ʲ��ᱻ�жϣ���Ҫʱ�����ڷָ�(��Ȼ���������һЩ�ı�����ʵķָ�ᰴ��ϣ�����ϰ����Ԫ��֮��Ͽ�)��
-
-
-
-
-��д��ĸ����������������һ�״���д���壬����ڶ��俪ͷ����initialֻ��ͨ����������ĸ��΢д��һ�������֣���ʹ�õıʼ�ߴ���Ȼ����ͬ�ġ�ͬʱ��Ҳ��һ�����ܻ����װ�Ρ�ͨ��һ���µĶ����ӽ������װ���ߴ���ʼ��ͬ������һ��֮��Ҳ�������пռ䡣
-��չ�Ķ�����������鶼ֻ����Roman Rustic��һ���汾�����Լ�Ҫ���ۡ��������һ��Ƽ�Thompson��Greek and Latin Palaeography��Lowe��Codices Latini Antiquiores�� Handwriting��Morison��Politics and Scripts��Degering��Lettering��Fairbank��The Story of Handwriting��Anderson��The Art of Writing Forms���Լ�Weitzman��Late Antique and Early Christian Book Illumination�������й����屾�������ۣ����Ƽ����ϵ�Thompson��Morison��Fairbank��Anderson���飬�Լ�Jhon�� Latin Palaeography��Ullman�� Ancient Writing and Its Influence��
+图75.【佛罗伦撒, 美蒂奇洛伦佐图书馆, Ms. Plut.39.1, 第158面左侧】一份五世纪晚期的文本，具体可能是在494年之前的某一时间，形式上略显松散，书法气息稍淡。LYDORVMQ·MANVM·COLLECTOSARMATAGRESTIS·QVIDDEVBITAS·NVNCTEMPVSEQVOSNVNCPOSCERECVRRYS·RVMPEMORASOMNIS·ETTVRBATAARRIPECASTRA·
  
 
-ͼ78. ��ͼ75ϸ�ڡ�һ��СС����ƣ�ż��������ҳ���Ŀհ״��Լ��Ķα����ϣ�ͨ��ֻ����ʽ�����и�����СС���������е��͵��ʲ���ζ����ͼ9�е�������һ��free hand���ı��塣
  
+图76. 【罗马，梵蒂冈宗座图书馆, Ms. Vat. Lat. 3876, 第3面右侧】同图73所述，但垂直笔画没有转笔。450年到500年间。
+FORMONSVM·CORYDON·PASTOR·ARDEBAT·ALEXINDELICIAS·DOMINI·NEC·QVID·SPERARET·HABEBATTANTVM·INTER·DENSAS·VMBOSA·CACVMINA·FAGOSADSIDVAE·VENIEBAT·IBI·HAEC·INCONDITA·SOLVS 
 
+图77. 【图73、74、75的部分细节】字母装饰： 字母的装饰非常有限且十分精细。大写字母G在文本最末行处将descender拉长，使其可以流畅地向下延伸。当大写的Q出现在最末行时，它的尾部也有足够的空间让其延展。然而，文本中看上去像是长尾的字母Y，其实是右侧倾斜笔画因装饰过度而写成的大写V（另一个类似的例子请参看图76中的L）。文本首行的字母或者紧邻右侧页边的字母也可以被装饰，而紧邻左侧页边字母的衬线则可以被延伸。字母V的第一笔或是A的衬线有时可以超出文本边界。但并不是每一处满足条件的字母都要进行处理，平均下来，大概是每一页不超过两处装饰，当然，不超过一处会更好。所谓字母装饰正是因为少见、低调且又不影响文档中字母的排版才显得愈加引人。
+ 
+字体特点：出于快速书写的目的，在书写Roman Rustic时，笔尖的角度主要维持在45°到70°之间。字母顶部的弧形稍微倾斜，且对角线上的笔画也略有弯曲。Roman Rustic的A也可以从左侧的笔画先开始写，而M则是从左至右依次完成。整套字母相对整齐一致的高度也只因字母B、F、L（有时也有E和P）的存在显得不同。在2、3世纪，F有可能会下延到基线以下，而M则可以横跨更宽的一段距离。早期的字母G尾部的写法与Q十分相似。在晚期的经过改善后的字体版本里，G通常以两种形式出现:在文段非首尾行以没有descender的形式出现，或如之前提到的用在文段末行的形式出现。字母间距较大，并且与现代不同的是，单词之间也没有留额外的空间 (偶尔会在单词间的中部打上一个小点用来标识）。一般情况下在行尾处的单词不会被切断，如有必要时则按该单词发音规律以音节进行分割 (当然，在最初的一些文本里，单词的分割会按照希腊语的习惯在元音之后断开)。
 
+大写字母：由于这套字体是一套纯大写字体，因此段落的首字母只会通过比其他字母稍微写大一号来区分，所使用的笔尖尺寸依然是相同的。同时，也有一定可能会添加装饰。通常一个新的段落会紧贴页边左侧开始，并且新段落与上一段之间不会留有空间。
+
+拓展阅读：大多数的书都只包含Roman Rustic的一个版本并加以简要讨论。在这里我会推荐Thompson的Greek and Latin Palaeography，Lowe的Codices Latini Antiquiores和 Handwriting，Morison的Politics and Scripts，Degering的Lettering，Fairbank的The Story of Handwriting，Anderson的The Art of Writing Forms，以及Weitzman的Late Antique and Early Christian Book Illumination，对于有关字体本身的讨论，我推荐如上的Thompson、Morison、Fairbank和Anderson的书，以及Jhon的 Latin Palaeography和Ullman的 Ancient Writing and Its Influence。
+ 
+图78. 【图75细节】一点小小的设计，偶尔用来点缀大且看上去单调的页面或者衬托文段标题，写起来偏随意，具有典型的潦草意味。插图9中的例子是一个free-hand风格的变体。 
 
